@@ -1,0 +1,13 @@
+E:\Dotnet\ReferenciasDotNet\bin\Debug\netcoreapp3.1\Demos.exe
+E:\Dotnet\ReferenciasDotNet\bin\Debug\netcoreapp3.1\Demos.deps.json
+E:\Dotnet\ReferenciasDotNet\bin\Debug\netcoreapp3.1\Demos.runtimeconfig.json
+E:\Dotnet\ReferenciasDotNet\bin\Debug\netcoreapp3.1\Demos.runtimeconfig.dev.json
+E:\Dotnet\ReferenciasDotNet\bin\Debug\netcoreapp3.1\Demos.dll
+E:\Dotnet\ReferenciasDotNet\bin\Debug\netcoreapp3.1\Demos.pdb
+E:\Dotnet\ReferenciasDotNet\obj\Debug\netcoreapp3.1\Demos.csprojAssemblyReference.cache
+E:\Dotnet\ReferenciasDotNet\obj\Debug\netcoreapp3.1\Demos.AssemblyInfoInputs.cache
+E:\Dotnet\ReferenciasDotNet\obj\Debug\netcoreapp3.1\Demos.AssemblyInfo.cs
+E:\Dotnet\ReferenciasDotNet\obj\Debug\netcoreapp3.1\Demos.csproj.CoreCompileInputs.cache
+E:\Dotnet\ReferenciasDotNet\obj\Debug\netcoreapp3.1\Demos.dll
+E:\Dotnet\ReferenciasDotNet\obj\Debug\netcoreapp3.1\Demos.pdb
+E:\Dotnet\ReferenciasDotNet\obj\Debug\netcoreapp3.1\Demos.genruntimeconfig.cache
